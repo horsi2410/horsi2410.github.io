@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notícias | Motocross Brasil</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
 <header>
     <h1>Motocross Brasil</h1>
 </header>
@@ -35,6 +25,3 @@
 <footer>
     &copy; 2023 Motocross Brasil - Todos os direitos reservados.
 </footer>
-
-</body>
-</html>
