@@ -40,7 +40,7 @@
         }
     </style>
 
-<body>
+
 
 <header>
     <h1>Motocross Brasil</h1>
@@ -63,4 +63,4 @@
     &copy; 2023 Motocross Brasil - Todos os direitos reservados.
 </footer>
 
-</body>
+
