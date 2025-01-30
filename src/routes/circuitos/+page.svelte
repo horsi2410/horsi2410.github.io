@@ -81,7 +81,8 @@
                 <p>Proporciona corridas eletrizantes com desafios únicos.</p>
             </div>
         </div>
-        </div>
+    </div>
+</div>
 <style>
      .news-container {
         display: flex;
