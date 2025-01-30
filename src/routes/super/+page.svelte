@@ -9,6 +9,7 @@
             </div>
         </div>
 
+
         <div class="news-card">
             <img src="/images (1).jpeg" alt="Equipe Honda HRC">
             <div class="news-content">
@@ -16,6 +17,7 @@
                 <p>A Honda traz seu time de elite para a temporada 2025, focando em conquistas e vitórias.</p>
             </div>
         </div>
+
 
         <div class="news-card">
             <img src="/297941_kawasaki2502025kawasakiteam-shootsxoctopim4425.jpg" alt="Equipe Kawasaki">
@@ -25,6 +27,7 @@
             </div>
         </div>
 
+
         <div class="news-card">
             <img src="/images (2).jpeg" alt="Equipe Suzuki">
             <div class="news-content">
@@ -32,6 +35,7 @@
                 <p>A Suzuki continua a sua luta no Supercross com pilotos habilidosos e determinação para vencer.</p>
             </div>
         </div>
+
 
         <div class="news-card">
             <img src="/RED BULL KTM FACTORY RACING TEAM 2025.jpeg" alt="Equipe Red Bull KTM">
@@ -41,6 +45,7 @@
             </div>
         </div>
 
+
         <div class="news-card">
             <img src="/download.jpeg" alt="Equipe Star Racing Yamaha">
             <div class="news-content">
@@ -48,6 +53,7 @@
                 <p>Equipe jovem e dinâmica, com pilotos prontos para conquistar vitórias em todas as etapas da temporada.</p>
             </div>
         </div>
+
 
         <div class="news-card">
             <img src="/2024-TROY-LEE-DESIGNS-RED-BULL-GASGAS-FACTORY-RACING-TEAM.webp" alt="Equipe Troy Lee Designs GasGas">
@@ -57,6 +63,7 @@
             </div>
         </div>
 
+
         <div class="news-card">
             <img src="/foto-destaque.004-1.jpeg" alt="Equipe Rockstar Energy Husqvarna">
             <div class="news-content">
@@ -65,6 +72,7 @@
             </div>
         </div>
 
+
         <div class="news-card">
             <img src="/43f66ee3-0a0a-4fce-9df7-c439f05b5f54.png" alt="Equipe Babbitt's Monster Energy Kawasaki">
             <div class="news-content">
@@ -72,6 +80,7 @@
                 <p>Equipe com um elenco forte, pronta para fazer frente aos grandes rivais do AMA Supercross.</p>
             </div>
         </div>
+
 
         <div class="news-card">
             <img src="/ClubMX-scaled.jpg" alt="Equipe Muc-Off/FXR/ClubMX Yamaha">
@@ -83,6 +92,7 @@
     </div>
 </div>
 
+
 <style>
     .news-container {
         display: flex;
@@ -90,6 +100,7 @@
         justify-content: space-around;
         gap: 20px;
     }
+
 
     .news-card {
         width: 200px;
@@ -101,15 +112,18 @@
         flex-direction: column;
     }
 
+
     .news-card img {
         width: 100%;
         height: 150px;
         object-fit: cover;
     }
 
+
     .news-content {
         padding: 10px;
     }
+
 
     @media (max-width: 768px) {
         .news-card {
@@ -117,5 +131,3 @@
         }
     }
 </style>
-
-
