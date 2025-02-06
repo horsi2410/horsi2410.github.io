@@ -1,1 +1,0 @@
-Este projeto é um site sobre motocross, o site reúne algumas notícias sobre o esporte, como competições, e curiosidades. Foi criado para ser simples e fácil de navegar, com fotos e textos diretos.
